@@ -6,3 +6,13 @@
 3. For splitting documents I have used TokenTextSplitter
 4. For vectorstore I have used FAISS
 5. For Chain i have used ConversationalRetrievalChain
+6. LLM used is OpenAI
+
+
+## In the notebook RAG_Langchain_usingPDFLoader:
+1. I have tried using Langchain with PDFLoader to load documents.
+2. For embeddings I have used HuggingFace Hub Embeddings all-MiniLM-L6-v2
+3. For splitting documents I have used TokenTextSplitter
+4. For vectorstore I have used Chrom db
+5. For Chain i have used ConversationalRetrievalChain
+6. LLM used is google/flan-t5-base
