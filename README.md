@@ -16,3 +16,9 @@
 4. For vectorstore I have used Chrom db
 5. For Chain i have used ConversationalRetrievalChain
 6. LLM used is google/flan-t5-base
+
+## Title prediction
+1. Fine tune Flan T5
+2. Using Huggingface Transformers
+3. Metrics: Rouge 1 Score
+4. Dataset: Kaggle dataset
